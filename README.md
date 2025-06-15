@@ -48,7 +48,8 @@ Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn, Machine Learning, Computer Vis
 ### 🎓 Education
 
 **BSc in Computer Science & Artificial Intelligence**  
-October 6th University (2022 – Present)
+October 6th University (2021 – 2025)
+CGPA(3.26)
 
 ---
 
