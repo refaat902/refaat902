@@ -2,7 +2,7 @@
 
 ## Hi there, I'm Mostafa Ahmed Refaat
 
-🎯 **Software Engineer | Flutter Developer | Mobile Solutions Builder**
+🎯 **Software Engineer | Flutter Developer**
 📍 Cairo, Egypt
 📧 **[mostafarefaat902@gmail.com](mailto:mostafarefaat902@gmail.com)** | 📱 **+20 1097012857**
 🔗 [LinkedIn](https://linkedin.com/in/mostafa-refaat-9b7699249) • [GitHub](https://github.com/refaat902)
