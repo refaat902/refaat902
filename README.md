@@ -1,68 +1,80 @@
-## 👋 Hi there, I'm Mostafa A. Refaat
+## Hi there, I'm Mostafa Ahmed Refaat
 
-🎯 **Mobile Developer | Flutter Enthusiast | Problem Solver**  
-📍 Based in Cairo, Egypt  
-📧 mostafarefaat902@gmail.com | 📱 +20 1097012857
-
----
-
-### 🚀 About Me
-
-I'm a passionate Flutter developer with a strong foundation in cross-platform mobile development, data structures, and modern software design patterns. With hands-on experience at OpenPark Technologies and a diploma from Amit Learning, I build scalable, responsive, and high-performance applications for Android and iOS.
+**Software Engineer | Flutter Developer**
+Cairo, Egypt
+**[mostafarefaat902@gmail.com](mailto:mostafarefaat902@gmail.com)** | **+20 1097012857**
+[LinkedIn](https://linkedin.com/in/mostafa-refaat-9b7699249) • [GitHub](https://github.com/refaat902)
 
 ---
 
-### 🛠 Tech Stack
+### About Me
 
-**Languages & Frameworks:**  
-Flutter, Dart, Node.js, Python, C++, Java
+I’m a passionate **Software Engineer specializing in Flutter** with hands-on experience building and maintaining **enterprise-level mobile applications (B2B)**.
+I focus on **performance, scalability, and user-centered design**, transforming business requirements into seamless and high-quality mobile experiences.
 
-**Mobile & Backend:**  
-State Management (BLoC, Cubit), RESTful APIs, Firebase, Firestore, Shared Preferences, Google Maps, Notifications, Lottie Animations
-
-**Database & Tools:**  
-MySQL, Firebase, DevTools, Git
-
-**Data & AI:**  
-Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn, Machine Learning, Computer Vision
+Currently, I’m part of **OpenPark Technologies kft**, where I lead development for real-world mobility and parking management solutions.
 
 ---
 
-### 💼 Experience
+### Professional Experience
 
-**👨‍💻 Software Engineer – OpenPark Technologies (Jan 2024 – Present)**  
-- Integrated Google Maps with real-time location and route guidance  
-- Built a custom Node.js-based notification system targeting users/topics/screens  
-- Implemented platform-specific redirection (Google Maps for Android, Apple Maps for iOS)  
-- Designed responsive layouts across devices with Lottie animations and UI enhancements  
-- Developed dynamic currency logic based on geolocation  
+#### **OpenPark Technologies Kft** — *Software Engineer (Flutter)*
 
-**📱 Flutter Developer – Amit Learning (Oct 2023 – Dec 2023)**  
-- Mastered Flutter, Dart, and state management (BLoC, Cubit)  
-- Implemented MVVM/MVC design patterns and custom widgets  
-- Worked on Firebase authentication, real-time databases, notifications  
-- Built advanced UI/UX and optimized performance using Flutter DevTools  
+**Jan 2024 – Present | Cairo, Egypt**
 
----
+* Promoted to **Full-Time Software Engineer** due to strong ownership and performance.
+* **Led development** of *The American University in Cairo Parking App*, designed for security gate operations and management.
+* Designed a **user-friendly interface** for guards handling multiple gate scenarios (Drop-off, Invitation, Non-Member Staff, Non-Member Student, Guest).
+* Prepared detailed **SRS documents** to align technical and non-technical teams.
+* Developed and maintained the **OpenPark Park & Go App**, integrating:
 
-### 🎓 Education
-
-**BSc in Computer Science & Artificial Intelligence**  
-October 6th University (2021 – 2025)
-CGPA(3.26)
+  * **Custom Node.js-based Notification Service** (replacing Firebase Cloud Messaging)
+  * **Google Maps API** with real-time location and routing
+  * **Dynamic currency logic** and **platform-specific navigation (Google/Apple Maps)**
+  * **Lottie animations** and responsive layouts for all devices
 
 ---
 
-### 🏆 Achievements & Activities
+#### **AMIT Learning** — *Flutter Developer (Diploma Program)*
 
-- 🥉 Bronze Medal – Egyptian Kickboxing Championship  
-- 🥈🥉 Multiple Medals – Egyptian Fins Swimming Championships  
-- 🌍 Volunteered at AIESEC (6 months)  
-- 🤝 Participated in Ezz Steal internship (IT & Ops exposure)
+**Oct 2023 – Jan 2024 | Cairo, Egypt**
+
+* Completed a **professional diploma** focused on Flutter, Dart, and scalable app architecture.
+* Specialized in **BLoC/Cubit state management** and **MVVM/MVC design patterns**.
+* Integrated **Firebase** (Auth, Firestore, Notifications) and **RESTful APIs**.
+* Built adaptive, high-performance UIs using **Flutter’s widget system**.
 
 ---
 
-### 💬 Let's Connect!
+#### **Ezz Steel** — *IT Intern*
 
-I’m always eager to collaborate on exciting Flutter projects or data-driven solutions. Feel free to reach out via email or check out my latest work here on GitHub!
+**Jul 2022 | Cairo, Egypt**
 
+* Explored **Oracle ERP systems**, observing data centralization across Finance, HR, and Operations.
+* Gained understanding of **enterprise data integration** and **automation workflows** for business efficiency.
+
+---
+
+### Education
+
+**BSc in Computer Science & Artificial Intelligence**
+October 6 University (2021 – 2025)
+CGPA: **3.26**
+
+---
+
+### Tech Stack
+
+**Languages & Frameworks:**
+Flutter, Dart, Python, C++, Java
+
+**Skills:**
+Oop, Data Structure, CI/CD, SOLID, Git, RESTful APIs, BLoC/Cubit, Firebase, Firestore, Shared Preferences, Google Maps,Push Notifications, Lottie Animations
+
+---
+
+### Activities & Volunteering
+
+* Volunteered at **AIESEC** as a member for Incoming Global Volunteers (6 months)
+  
+---
